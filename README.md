@@ -62,8 +62,9 @@ npm start
 ---
 
 ## **📸 Screenshots**
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/97db3226-9661-4c93-8b7a-b000441588fc" />
 
-*(Add relevant screenshots of your application here)*
+
 
 ---
 
@@ -89,7 +90,7 @@ We value your feedback! If you have suggestions or encounter any issues, feel fr
 ## **👤 Author**
 
 **Sai Pranitha Gunti**
-📧 Email: *[your.email@example.com](mailto:your.email@example.com)*
+📧 Email: *[your.email@example.com](mailto:pranitha.gunti1609@gmail.com)*
 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 ---
