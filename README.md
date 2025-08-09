@@ -1,4 +1,3 @@
-Got it — here’s a nicely formatted **README** for **CodeVault** with bold headings, your name and details at the end, and an attractive structure.
 
 ---
 
