@@ -89,8 +89,8 @@ We value your feedback! If you have suggestions or encounter any issues, feel fr
 ## **👤 Author**
 
 **Sai Pranitha Gunti**
-📧 Email: *[your.email@example.com](mailto:pranitha.gunti1609@gmail.com)*
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+📧 Email: *[pranitha.gunti1609@gmail.com](mailto:pranitha.gunti1609@gmail.com)*
+💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-pranitha-gunti-4486772b3/)
 
 ---
 
