@@ -90,7 +90,7 @@ We value your feedback! If you have suggestions or encounter any issues, feel fr
 
 **Sai Pranitha Gunti**
 📧 Email: *[pranitha.gunti1609@gmail.com](mailto:pranitha.gunti1609@gmail.com)*
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sai-pranitha-gunti-4486772b3/)
+💼 LinkedIn: [https://www.linkedin.com/in/sai-pranitha-gunti-4486772b3/](https://www.linkedin.com/in/sai-pranitha-gunti-4486772b3/)
 
 ---
 
